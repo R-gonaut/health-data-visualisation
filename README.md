@@ -28,6 +28,8 @@ Visually, Wales' distinct geography was a core part of the design concept.
 
 The true tourism peak season is a complex concept, with half-terms, bank holidays, summer breaks, and so on, contributing to tourism. These are often asynchronous between England and Wales, and the weather on each occassion has a significant impact on the extent of any tourism. Rather than identifying a robust methodology to classify individual dates as 'peak' and 'off' season, the period June to August (3 months) annually will be considered 'peak' season, and the remaining nine months will be considered 'off' season. This is potentially flawed, but clearly more simple with less risk of error involved.
 
+Data was filtered to only include relevant local authorities: Carmarthenshire, Ceredigion, Anglesey, Gwynedd, and Pembrokeshire.
+
 A monthly average volume of casualties for each LSOA during both peak and off seasons are calculated, and then made equivalent by dividing the sum of the peak season casualties by 15 (as there are 15 peak season months across five years), and the off season is calculated by dividing the sum of the off season casualties by 45 (as there are 45 off season months). This yields a monthly average casualty number for each LSOA for both peak and off season months.
 
 An additional field is calculated by subtracting the off season average monthly casualties from the peak season casualties. This field has both positive and negative values, with positive values representing LSOAs with relatively more casualties during peak season, and negative values representing LSOAs with relatively fewer during peak season. This is used to plot the spatial map of West Wales on the poster.
