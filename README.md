@@ -4,6 +4,8 @@ This project accompanies the project poster produced 'THE TIDES OF TOURISM', plu
 
 The video presentation can be accessed via a private link by scanning the QR code on the poster itself. This is the only way to view the video presentation.
 
+Author: Adam Moore
+
 # Sources
 
 Road traffic collision data was aquired from UK Government data (UK.Data.Gov) accessed via Stats19, the 'Road Safety - Collisions last 5 years' data file was used: https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data
@@ -39,7 +41,3 @@ Much further analysis was completed, exploring the impacts of an array of other 
 No robust conclusions can be drawn from this work alone, as there are simply far too many variables that are not accounted for nor considered. The methodology is somewhat flawed in that, at this level of granularity (LSOA) there are not that many collisions and so other factors, such as simply how treacherous roads are in general could be having disproportionate impacts on how the spatial data has been visualised and presented.
 
 The work does, however, challenge conventional views held by some Pembrokeshire residents in particular. Comprehensive and robust analysis could further unpick and explain this increase and determine why this increase occurs, and why it is lower in Pembrokeshire than other similar counties. As the most visited county, Pembrokeshire is heavily relied on as a proxy for the impact of tourism alone. This is not unreasonable, but is limited in validity with respect to concluding that tourism does not have a signicant impact on the rate of collisions. This absolutely remains unclear despite this work.
-
-
-Author: Adam Moore
-
